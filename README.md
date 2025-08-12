@@ -24,8 +24,7 @@ It is created as part of the **Placemantra Course Minor Project** to demonstrate
 ---
 
 ## 📂 Project Structure
-calculator-project/
-│
+calculator
 ├── index.html 
 ├── style.css 
 ├── script.js
