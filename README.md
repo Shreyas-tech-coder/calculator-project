@@ -47,6 +47,7 @@ calculator-project/
 ![Calculator Screenshot](screenshot.png)
 
 🚀 Live Demo
+
 You can view the live version of the project here:
 https://calculator-shreyas.netlify.app
 
