@@ -1,9 +1,8 @@
-# 📱 Calculator – Minor Project (Placemantra Course)
+# 📱 Calculator – Web Application
 
-## 📌 Project Overview
-This is a simple yet functional **Calculator Web Application** built using **HTML, CSS, and JavaScript**.  
-It is created as part of the **Placemantra Course Minor Project** to demonstrate **basic web development skills** including layout design, styling, and JavaScript event handling.
-
+## 📌 Project Overview  
+A simple yet functional **Calculator Web Application** built using **HTML, CSS, and JavaScript**.  
+The project demonstrates **basic web development skills** including layout design, styling, responsiveness, and JavaScript event handling.
 ---
 
 ## ✨ Features
@@ -44,6 +43,7 @@ calculator-project/
 4. **Start calculating!** ✅
 
 ## 📸 Screenshot
+
 ![Calculator Screenshot](screenshot.png)
 
 🚀 Live Demo
@@ -51,4 +51,5 @@ You can view the live version of the project here:
 https://calculator-shreyas.netlify.app
 
 📜 License
-This project is created as part of the Placemantra course minor project and is free for educational use.
+
+This project is free to use for learning and educational purposes.
